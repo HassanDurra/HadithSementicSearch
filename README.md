@@ -22,3 +22,13 @@ Modify the script to load your Hadith dataset.
 Run the script.
 Input a problem statement or query.
 The script will return the most relevant Hadith solutions based on semantic similarity.
+
+**Developed by **
+
+**Hassan murad ( full-stack Developer )**
+LinkedIn : 
+https://www.linkedin.com/in/hassan-durra-68b123220/
+Gmail: Hassandurra81@gmail.com
+**Wadid ( Full-Stack Developer )**
+LinkedIn:
+https://www.linkedin.com/in/muhammad-wadid-38267222b/

@@ -14,7 +14,7 @@ Scikit-Learn
 NLP libraries (NLTK, SpaCy, etc. - Depending on preprocessing requirements)
 Hadith Database (e.g., a CSV file, JSON file, or a database)
 Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/HassanDurra/HadithSementicSearch.git
 Install dependencies: pip install -r requirements.txt
 Usage
 Prepare your Hadith database in an appropriate format.

@@ -1,0 +1,1456 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "TfidfVectorizer",
+        "importPath": "sklearn.feature_extraction.text",
+        "description": "sklearn.feature_extraction.text",
+        "isExtraImport": true,
+        "detail": "sklearn.feature_extraction.text",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "spacy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "spacy",
+        "description": "spacy",
+        "detail": "spacy",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"myfile.json\")",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"myfile.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "app = Flask(__name__)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"myfile.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "data = load_data(\"myfile.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Load data and set up vectorizer and data_vectors globally\ndata = load_data(\"myfile.json\")\ntexts = [hadith['text'] for hadith in data['hadiths']]",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Load data and set up vectorizer and data_vectors globally\ndata = load_data(\"myfile.json\")\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\ntexts = [hadith['text'] for hadith in data['hadiths']]",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "def search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])\n    for result in relevant_results:\n        print(\"\\nHadith Number:\", result['hadithnumber'])\n        print(\"Chapter:\", chapter_lookup.get(result['reference']['book'], 'Unknown Chapter'))\n        print(\"Hadith:\", result['text'])\n        print(\"Book:\", book_lookup[result['hadithnumber']])\n        response = []",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load large data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "data = load_data(\"myfile.json\")\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\ntexts = [hadith['text'] for hadith in data['hadiths']]\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\ntexts = [hadith['text'] for hadith in data['hadiths']]\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\ntexts = [hadith['text'] for hadith in data['hadiths']]\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\ntexts = [hadith['text'] for hadith in data['hadiths']]\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])\n    for result in relevant_results:",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])\n    for result in relevant_results:\n        print(\"\\nHadith Number:\", result['hadithnumber'])",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])\n    for result in relevant_results:\n        print(\"\\nHadith Number:\", result['hadithnumber'])\n        print(\"Chapter:\", chapter_lookup.get(result['reference']['book'], 'Unknown Chapter'))",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "HadithApi",
+        "description": "HadithApi",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(texts)\n@app.route('/api/search/<query>', methods=['GET'])\ndef search(query):\n    print(query)\n    query_vector = vectorize_query(query, vectorizer)\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])\n    for result in relevant_results:\n        print(\"\\nHadith Number:\", result['hadithnumber'])\n        print(\"Chapter:\", chapter_lookup.get(result['reference']['book'], 'Unknown Chapter'))\n        print(\"Hadith:\", result['text'])",
+        "detail": "HadithApi",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"ibn_majah.json\")",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"ibn_majah.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"ibn_majah.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "data = load_data(\"ibn_majah.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "ibnMajah",
+        "description": "ibnMajah",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/ibnMajah', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "ibnMajah",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_bukhari.json\")",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_bukhari.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_bukhari.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "data = load_data(\"sahi_bukhari.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "SahiBukhari",
+        "description": "SahiBukhari",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahibukhari', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "SahiBukhari",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_muslim.json\")",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_muslim.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sahi_muslim.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "data = load_data(\"sahi_muslim.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "sahiMuslim",
+        "description": "sahiMuslim",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sahi_muslim', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "sahiMuslim",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_abu_dawood.json\")",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_abu_dawood.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_abu_dawood.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "data = load_data(\"sunan_abu_dawood.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "sunanabuDawood",
+        "description": "sunanabuDawood",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanabudawood', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "sunanabuDawood",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_nasai.json\")",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_nasai.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"sunan_nasai.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "data = load_data(\"sunan_nasai.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "sunanNasai",
+        "description": "sunanNasai",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/sunanNasai', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "sunanNasai",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Main function to run the search\ndef main():\n    # Load data",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Main function to run the search\ndef main():\n    # Load data\n    data = load_data(\"myfile.json\")\n    # Extract texts and metadata from data\n    texts = [hadith['text'] for hadith in data['hadiths']]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def main():\n    # Load data\n    data = load_data(\"myfile.json\")\n    # Extract texts and metadata from data\n    texts = [hadith['text'] for hadith in data['hadiths']]\n    book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\n    chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n    # Initialize spaCy for text preprocessing accuracy maintain rkhne ke liye\n    nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\n    # Preprocess the texts using spaCy",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "def load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_texts",
+        "kind": 2,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "def preprocess_texts(texts, nlp):\n    processed_texts = []\n    for text in texts:\n        doc = nlp(text.lower())\n        processed_texts.append(\" \".join([token.lemma_ for token in doc if not token.is_stop and not token.is_punct]))\n    return processed_texts\n# Vectorize user query\ndef vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize_query",
+        "kind": 2,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "def vectorize_query(query, vectorizer):\n    return vectorizer.transform([query])\n# Find most relevant results based on cosine similarity\ndef find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"tirmidi.json\")",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "find_relevant_results",
+        "kind": 2,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "def find_relevant_results(query_vector, data_vectors, data, top_n=3):\n    similarities = cosine_similarity(query_vector, data_vectors)\n    top_indices = similarities.argsort()[0][-top_n:][::-1]\n    return [data[i] for i in top_indices]\n# Initialize spaCy and load data\nnlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"tirmidi.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "def search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)\n    # Find relevant results based on cosine similarity\n    relevant_results = find_relevant_results(query_vector, data_vectors, data['hadiths'])",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load data from JSON file\ndef load_data(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        data = json.load(file)\n    return data\n# Preprocess texts using spaCy for better tokenization and lemmatization\ndef preprocess_texts(texts, nlp):\n    processed_texts = []",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "nlp",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "nlp = spacy.load(\"en_core_web_sm\", disable=[\"parser\", \"ner\"])\ndata = load_data(\"tirmidi.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "data = load_data(\"tirmidi.json\")\n# Extract texts and metadata from data\ntexts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "texts = [hadith['text'] for hadith in data['hadiths']]\nbook_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "book_lookup",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "book_lookup = {hadith['hadithnumber']: data['metadata']['name'] for hadith in data['hadiths']}\nchapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_lookup",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "chapter_lookup = {int(chapter_num): chapter_name for chapter_num, chapter_name in data['metadata']['sections'].items()}\n# Preprocess the texts using spaCy\nprocessed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "processed_texts",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "processed_texts = preprocess_texts(texts, nlp)\n# Vectorize the preprocessed texts\nvectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "vectorizer",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "vectorizer = TfidfVectorizer()\ndata_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])",
+        "detail": "tirmidi",
+        "documentation": {}
+    },
+    {
+        "label": "data_vectors",
+        "kind": 5,
+        "importPath": "tirmidi",
+        "description": "tirmidi",
+        "peekOfCode": "data_vectors = vectorizer.fit_transform(processed_texts)\n@app.route('/search/tirmidi', methods=['GET'])\ndef search():\n    user_query = request.args.get('query', '').strip()\n    user_book  = request.args.get('book_name' ,'').strip();\n    if not user_query:\n        return jsonify({'error': 'Please provide a query parameter!'}), 400\n    # Preprocess and vectorize user query\n    processed_query = \" \".join([token.lemma_ for token in nlp(user_query.lower()) if not token.is_stop and not token.is_punct])\n    query_vector = vectorize_query(processed_query, vectorizer)",
+        "detail": "tirmidi",
+        "documentation": {}
+    }
+]
